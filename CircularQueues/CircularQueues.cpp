@@ -12,7 +12,7 @@ public:
     }
 
     void insert() {
-
+        int num;
     }
 };
 int main()
